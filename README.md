@@ -1,5 +1,4 @@
 
-# ✨Let’s Start the Project ✨
 
 ## **Part 1: Deploying the Flask application locally**
 
